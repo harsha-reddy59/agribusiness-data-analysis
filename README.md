@@ -6,9 +6,9 @@ This repository contains my complete internship work focused on applying data sc
 
 ## 📌 Project Overview
 
-The objective of this internship is to explore how data science can be applied to agriculture and agribusiness to improve decision-making. The project covers the full data science lifecycle, including data preprocessing, exploratory analysis, and predictive modeling.
+The objective of this internship is to explore how data-driven approaches can improve decision-making in agriculture and agribusiness. The project follows a structured data science lifecycle, progressing from strategic planning to predictive modeling.
 
-The work progresses week-by-week, building a strong foundation and advancing towards a complete machine learning framework for crop yield prediction and agribusiness performance analysis.
+The work is organized into four key stages, each representing a week of the internship.
 
 ---
 
@@ -16,9 +16,10 @@ The work progresses week-by-week, building a strong foundation and advancing tow
 
 agribusiness-data-analysis/
 
+├── week1/   → Strategic Planning & Problem Definition  
 ├── week2/   → Data Cleaning & Preprocessing  
 ├── week3/   → Exploratory Data Analysis (EDA)  
-├── Week4/   → Predictive Modeling Framework  
+├── week4/   → Predictive Modeling Framework  
 
 └── README.md
 
@@ -26,38 +27,47 @@ agribusiness-data-analysis/
 
 ## 📅 Weekly Breakdown
 
+### 🔹 Week 1: Strategic Planning & Problem Definition
+- Defined agribusiness problem statements  
+- Identified key performance indicators (KPIs)  
+- Selected reliable public data sources  
+- Designed a structured data science workflow  
+- Outlined forecasting approaches for agricultural trends  
+
+---
+
 ### 🔹 Week 2: Data Cleaning & Preprocessing
-- Handling missing values  
-- Data transformation and normalization  
-- Feature preparation for analysis  
-- Preparing structured datasets for modeling  
+- Handled missing and inconsistent data  
+- Standardized formats and units  
+- Performed data transformation and normalization  
+- Prepared datasets for analysis and modeling  
 
 ---
 
 ### 🔹 Week 3: Exploratory Data Analysis (EDA)
-- Data visualization and plotting  
-- Identifying trends, patterns, and anomalies  
-- Statistical summaries  
-- Generating business insights from data  
+- Visualized data using charts and plots  
+- Identified trends, patterns, and anomalies  
+- Generated statistical summaries  
+- Derived meaningful business insights  
 
 ---
 
 ### 🔹 Week 4: Predictive Modeling Framework
-- Designing an end-to-end machine learning pipeline  
-- Feature selection for agricultural yield prediction  
-- Time-series aware data splitting and validation  
-- Model comparison:
+- Designed an end-to-end machine learning pipeline  
+- Selected key features influencing crop yield  
+- Applied time-aware data splitting techniques  
+- Built and compared models:
   - Ridge Regression  
   - Random Forest  
   - Gradient Boosting  
-- Performance evaluation:
+- Evaluated performance using:
   - MAE  
   - RMSE  
   - R² Score  
-- Model reliability:
+- Ensured reliability through:
   - Residual analysis  
-  - Uncertainty estimation  
   - Feature importance  
+  - Uncertainty estimation  
 
 ---
 
@@ -67,8 +77,8 @@ agribusiness-data-analysis/
 - Pandas & NumPy  
 - Scikit-learn  
 - Matplotlib  
-- Machine Learning Algorithms  
 - Data Analysis Techniques  
+- Machine Learning Algorithms  
 
 ---
 
@@ -76,31 +86,31 @@ agribusiness-data-analysis/
 
 - Understanding real-world agribusiness challenges  
 - Applying structured data science workflows  
-- Building machine learning models for prediction  
-- Evaluating model performance effectively  
+- Performing data preprocessing and analysis  
+- Building and evaluating machine learning models  
 - Designing scalable and reusable frameworks  
 
 ---
 
 ## 📊 Project Highlights
 
-✔ Built a complete predictive modeling framework  
-✔ Applied time-aware validation techniques  
-✔ Compared multiple machine learning models  
-✔ Developed a reusable and scalable pipeline  
-✔ Connected data science concepts to real-world agribusiness problems  
+✔ Developed a complete data science pipeline  
+✔ Applied real-world agricultural data concepts  
+✔ Built predictive models for crop yield forecasting  
+✔ Used time-series aware validation techniques  
+✔ Created a scalable and reusable framework  
 
 ---
 
 ## 👨‍💻 Author
 
-Harshavardhan Reddy  
+**Harshavardhan Reddy**  
 Agribusiness Data Analysis Intern  
 
 ---
 
 ## 📌 Conclusion
 
-This repository demonstrates a structured and practical approach to solving agribusiness problems using data science. It progresses from data preprocessing to advanced predictive modeling, showcasing both analytical thinking and technical implementation.
+This repository demonstrates a structured and practical approach to solving agribusiness problems using data science. It progresses from problem definition to predictive modeling, showcasing both analytical thinking and technical implementation.
 
 ---
